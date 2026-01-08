@@ -1,0 +1,16 @@
+# Python
+/__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual env
+.venv/
+env/
+
+# Local config
+.env
+.env.*
+
+# Local database
+database.db
+*.db
